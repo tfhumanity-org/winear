@@ -1,0 +1,4 @@
+.private/
+.extracted/
+node_modules/
+.DS_Store
